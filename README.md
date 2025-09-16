@@ -158,20 +158,20 @@ After logging in, you can access:
 The Django REST Framework provides a user-friendly web interface where you can:
 
 **Authentication:**
-- ✅ **Register**: Create new accounts via web form
-- ✅ **Login**: Authenticate via web interface
-- ✅ **Logout**: End your session securely
+-  **Register**: Create new accounts via web form
+-  **Login**: Authenticate via web interface
+-  **Logout**: End your session securely
 
 **Document Management:**
-- 📁 **Upload**: Drag-and-drop or browse for files
-- 📄 **View**: See all your uploaded documents
-- 🤖 **Auto-Summary**: AI generates summaries automatically
-- 🗑️ **Delete**: Remove documents when no longer needed
+-  **Upload**: Drag-and-drop or browse for files
+-  **View**: See all your uploaded documents
+-  **Auto-Summary**: AI generates summaries automatically
+-  **Delete**: Remove documents when no longer needed
 
 **Text Processing:**
-- 📝 **Direct Input**: Paste text directly for summarization
-- ⚡ **Instant Results**: Get summaries in seconds
-- 📊 **Multiple Modes**: Short overview or detailed notes
+-  **Direct Input**: Paste text directly for summarization
+-  **Instant Results**: Get summaries in seconds
+-  **Multiple Modes**: Short overview or detailed notes
 
 ### Important Notes for Users
 
