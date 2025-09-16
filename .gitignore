@@ -1,0 +1,55 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.sqlite3
+
+# Envs
+.env
+.venv/
+venv/
+
+# Django
+staticfiles/
+media/
+
+# IDE
+.vscode/
+.idea/
+*.iml
+
+# PyCharm
+*.idea/
+
+# Byte-compiled / optimized / DLL files
+*.pyc
+
+# Logs
+*.log
+
+# Cache
+.cache/
+
+# Transformers cache (optional exclude)
+.huggingface/
+
+# Temporary files
+*.tmp
+*.temp
+
+# Test files
+test_*.py
+*_test.py
+demo_*.py
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Redis installer
+*.msi
+
+# Backup files
+*.bak
+*.backup
